@@ -1,0 +1,9 @@
+exception handling
+authorization
+authentication
+JPA
+logging
+unit testing
+debugging
+build
+deployment
